@@ -5,7 +5,7 @@ body {
 
 .back {
     width:100%;
-    height:1000px;
+    height:800px;
     background-repeat:no-repeat;
     background-size:100% 100%;
     margin: 0;
@@ -14,7 +14,7 @@ body {
 }
 
 .row {
-    height: 1000px;
+    height: 800px;
     
 }
 
@@ -43,11 +43,11 @@ body {
     background: rgba(255, 255, 255, 0.1);
     box-shadow: 0 0 15px 10px;
     
-    width: 30%;
+    width: 50%;
     backdrop-filter: blur(20px);
     position: relative;
-    bottom: 200px;
-    left: 1000px;
+    bottom: 150px;
+    left: 700px;
     display: flex;
     flex-direction: column;
     border: 1px solid rgba(255, 255, 255, 0.1);
@@ -69,7 +69,7 @@ li {
 
     .searchbar{
     margin-bottom: auto;
-    margin-top: auto;
+    margin-top: 200px;
     height: 60px;
     background-color: #586279;
     border-radius: 30px;
@@ -127,7 +127,7 @@ li {
     line-height: 10rem;
     font-weight: 900;
     text-align: center;
-    font-size: 500%;
+    font-size: 400%;
     padding: 0 200px;
     margin: 200px 0;
     display: flex;
@@ -160,7 +160,7 @@ li {
     background-repeat:no-repeat;
     background-size:100% 100%;
     margin: 0;
-    float: right;
+    float: left;
     border-radius: 20%;
     display: flex;
 }
@@ -188,7 +188,7 @@ li {
     /* padding: 70px 50px 0 50px; */
     display: flex;
     position: relative;
-    left: 500px;
+    right: 100px;
     bottom: 100px;
 }
 p {
